@@ -1,0 +1,31 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.R.save
+
+# Logs
+*.log
+
+# Alignment files
+*.bam
+*.sam
+*.cram
+
+# FastQ files
+*.fastq
+*.fastq.gz
+
+# Methylation outputs
+*.cov.gz
+*.bedGraph.gz
+*.CpG_report.txt.gz
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
